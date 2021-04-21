@@ -1,0 +1,32 @@
+.my-container {
+    border: 1px solid green;
+    
+}
+
+.my-row {
+    border: 1px solid red;
+    width: 200px
+}
+
+.my-col {
+    border: 3px dotted blue;
+}
+
+body {
+    margin: 30px;
+    text-align: center
+}
+img{
+  
+width: 600px;
+    height: 300px;
+  
+}
+h1{
+    color: black;
+    font-family:cursive; 
+}
+#myCarousel2{
+    height: 300px;
+    width: 1100px;
+}
